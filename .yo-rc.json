@@ -1,0 +1,10 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": false,
+    "name": "Test",
+    "repo": "theholiday/swagger-doc-test",
+    "splitSpec": false,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
